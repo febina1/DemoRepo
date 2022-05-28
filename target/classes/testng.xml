@@ -1,0 +1,14 @@
+<suite name="Swaglabs Test Automation Test Suite">
+
+<listeners>
+<listener class-name="com.slabs.qa.ExtendReportListener.ExtendReportListener"/>
+
+</listeners>
+<test name="SwagLabs App Testcases">
+<classes>
+  <class name="com.slabs.qa.tests.LoginTest"></class>
+  <class name="com.slabs.qa.tests.HomeTest"></class>
+
+</classes>
+</test>
+</suite>

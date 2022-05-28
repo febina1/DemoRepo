@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Swaglabs Test Automation Test Suite" duration-ms="24765" started-at="2022-05-25T22:15:40 EDT" finished-at="2022-05-25T22:16:05 EDT">
+    <groups>
+    </groups>
+    <test name="SwagLabs App Testcases" duration-ms="24765" started-at="2022-05-25T22:15:40 EDT" finished-at="2022-05-25T22:16:05 EDT">
+      <class name="com.slabs.qa.tests.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.slabs.qa.tests.LoginTest@2bbaf4f0]" name="setUp" is-config="true" duration-ms="3420" started-at="2022-05-25T22:15:40 EDT" finished-at="2022-05-25T22:15:44 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginImgTesting()[pri:0, instance:com.slabs.qa.tests.LoginTest@2bbaf4f0]" name="loginImgTesting" duration-ms="51" started-at="2022-05-25T22:15:44 EDT" finished-at="2022-05-25T22:15:44 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginImgTesting -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.slabs.qa.tests.LoginTest@2bbaf4f0]" name="tearDown" is-config="true" duration-ms="677" started-at="2022-05-25T22:15:44 EDT" finished-at="2022-05-25T22:15:44 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.slabs.qa.tests.LoginTest@2bbaf4f0]" name="setUp" is-config="true" duration-ms="1511" started-at="2022-05-25T22:15:44 EDT" finished-at="2022-05-25T22:15:46 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginLogoTesting()[pri:0, instance:com.slabs.qa.tests.LoginTest@2bbaf4f0]" name="loginLogoTesting" duration-ms="31" started-at="2022-05-25T22:15:46 EDT" finished-at="2022-05-25T22:15:46 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginLogoTesting -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.slabs.qa.tests.LoginTest@2bbaf4f0]" name="tearDown" is-config="true" duration-ms="650" started-at="2022-05-25T22:15:46 EDT" finished-at="2022-05-25T22:15:47 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.slabs.qa.tests.LoginTest@2bbaf4f0]" name="setUp" is-config="true" duration-ms="1496" started-at="2022-05-25T22:15:47 EDT" finished-at="2022-05-25T22:15:48 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTesting()[pri:0, instance:com.slabs.qa.tests.LoginTest@2bbaf4f0]" name="loginTesting" duration-ms="229" started-at="2022-05-25T22:15:48 EDT" finished-at="2022-05-25T22:15:48 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTesting -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.slabs.qa.tests.LoginTest@2bbaf4f0]" name="tearDown" is-config="true" duration-ms="664" started-at="2022-05-25T22:15:48 EDT" finished-at="2022-05-25T22:15:49 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.slabs.qa.tests.LoginTest -->
+      <class name="com.slabs.qa.tests.HomeTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.slabs.qa.tests.HomeTest@27c6e487]" name="setUp" is-config="true" duration-ms="1780" started-at="2022-05-25T22:15:49 EDT" finished-at="2022-05-25T22:15:51 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="homeTitleTest()[pri:1, instance:com.slabs.qa.tests.HomeTest@27c6e487]" name="homeTitleTest" duration-ms="83" started-at="2022-05-25T22:15:51 EDT" finished-at="2022-05-25T22:15:51 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.slabs.qa.tests.HomeTest@27c6e487]" name="tearDown" is-config="true" duration-ms="671" started-at="2022-05-25T22:15:51 EDT" finished-at="2022-05-25T22:15:51 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.slabs.qa.tests.HomeTest@27c6e487]" name="setUp" is-config="true" duration-ms="1765" started-at="2022-05-25T22:15:51 EDT" finished-at="2022-05-25T22:15:53 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="cartIconTesting()[pri:2, instance:com.slabs.qa.tests.HomeTest@27c6e487]" name="cartIconTesting" duration-ms="5025" started-at="2022-05-25T22:15:53 EDT" finished-at="2022-05-25T22:15:58 EDT">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='shopping_cart_badge']"}
+  (Session info: chrome=101.0.4951.67)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.4', revision: '535d840ee2'
+System info: host: 'LAPTOP-RI237U6O', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [647f8e592231c1de58ce165135e90449, findElement {using=xpath, value=//span[@class='shopping_cart_badge']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.67, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\PRABHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59414}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59414/devtoo..., se:cdpVersion: 101.0.4951.67, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 647f8e592231c1de58ce165135e90449]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='shopping_cart_badge']"}
+  (Session info: chrome=101.0.4951.67)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.4', revision: '535d840ee2'
+System info: host: 'LAPTOP-RI237U6O', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [647f8e592231c1de58ce165135e90449, findElement {using=xpath, value=//span[@class='shopping_cart_badge']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.67, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\PRABHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59414}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59414/devtoo..., se:cdpVersion: 101.0.4951.67, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 647f8e592231c1de58ce165135e90449
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:567)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:385)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:377)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at com.sun.proxy.$Proxy14.isDisplayed(Unknown Source)
+at com.slabs.qa.pages.HomePage.cartIconTest(HomePage.java:46)
+at com.slabs.qa.tests.HomeTest.cartIconTesting(HomeTest.java:49)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartIconTesting -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.slabs.qa.tests.HomeTest@27c6e487]" name="tearDown" is-config="true" duration-ms="805" started-at="2022-05-25T22:15:58 EDT" finished-at="2022-05-25T22:15:59 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.slabs.qa.tests.HomeTest@27c6e487]" name="setUp" is-config="true" duration-ms="1728" started-at="2022-05-25T22:15:59 EDT" finished-at="2022-05-25T22:16:01 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addToCartTest()[pri:3, instance:com.slabs.qa.tests.HomeTest@27c6e487]" name="addToCartTest" duration-ms="3186" started-at="2022-05-25T22:16:01 EDT" finished-at="2022-05-25T22:16:04 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.slabs.qa.tests.HomeTest@27c6e487]" name="tearDown" is-config="true" duration-ms="976" started-at="2022-05-25T22:16:04 EDT" finished-at="2022-05-25T22:16:05 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.slabs.qa.tests.HomeTest -->
+    </test> <!-- SwagLabs App Testcases -->
+  </suite> <!-- Swaglabs Test Automation Test Suite -->
+</testng-results>
